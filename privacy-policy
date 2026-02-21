@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Neon Link</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 20px; }
+        h1 { color: #2c3e50; border-bottom: 2px solid #eee; padding-bottom: 10px; }
+        h2 { color: #2980b9; margin-top: 25px; }
+        p { margin-bottom: 15px; }
+        .footer { margin-top: 40px; font-size: 0.9em; color: #7f8c8d; border-top: 1px solid #eee; pt: 20px; }
+    </style>
+</head>
+<body>
+
+    <h1>Privacy Policy</h1>
+    <p><strong>Last Updated:</strong> January 31, 2026</p>
+
+    <p><strong>BeymGames</strong> ("we," "our," or "us") operates the <strong>Neon Link</strong> mobile application. This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service.</p>
+
+    <h2>1. Information Collection and Use</h2>
+    <p>We do not collect any personal information such as your name, email address, or phone number directly. However, the game uses third-party services that may collect information used to identify you.</p>
+
+    <h2>2. Third-Party Service Providers</h2>
+    <p>Our game incorporates the following third-party services:</p>
+    <ul>
+        <li><strong>Google AdMob:</strong> Used for displaying advertisements. AdMob may collect device identifiers (Android Advertising ID) and usage data to provide personalized ads.</li>
+        <li><strong>Unity Technologies:</strong> Our game is built using the Unity Engine, which may collect certain device-specific information to ensure technical performance and analytics.</li>
+    </ul>
+
+    <h2>3. Log Data</h2>
+    <p>In case of an error in the app, we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, and the configuration of the app.</p>
+
+    <h2>4. Children’s Privacy</h2>
+    <p>These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13.</p>
+
+    <h2>5. Changes to This Privacy Policy</h2>
+    <p>We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes.</p>
+
+    <h2>6. Contact Us</h2>
+    <p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at: <a href="mailto:bemyogames@gmail.com">bemyogames@gmail.com</a></p>
+
+    <div class="footer">
+        &copy; 2026 BeymGames - Neon Link
+    </div>
+
+</body>
+</html>
